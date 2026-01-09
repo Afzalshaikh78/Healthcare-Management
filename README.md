@@ -1,4 +1,3 @@
-MediMeet Health AI 🤖🏥
 
 AI-Powered Health Assistant - Symptom analysis, emergency detection, doctor appointment booking, and patient management system built with Next.js 14 and Groq AI.
 
