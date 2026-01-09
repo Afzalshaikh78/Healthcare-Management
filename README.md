@@ -16,13 +16,11 @@ AI-Powered Health Assistant - Symptom analysis, emergency detection, doctor appo
 
 📊 Patient Management - Complete health chat history and analytics
 
-⚡ TypeScript - Full type safety end-to-end
-
 📱 Responsive UI - TailwindCSS + shadcn/ui components
 
 🛠️ Tech Stack
 text
-Frontend: Next.js 14 (App Router) + TypeScript + TailwindCSS + shadcn/ui
+Frontend: Next.js 14 (App Router) + Javascript + TailwindCSS + shadcn/ui
 Backend: Prisma + Neon PostgreSQL + Node.js
 AI: Groq AI (Llama 3.3 70B) 
 Auth: Clerk
